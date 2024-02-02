@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Esseh12
+- 👋 Hi, I’m Ese
 - 👀 I’m interested in software engineering and medical technology.
 - 💞️ I’m looking to collaborate on any tech related area.
 - 📫 How to reach me gbenmoese788@gmail.com
