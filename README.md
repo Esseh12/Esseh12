@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Esseh12
-- 👀 I’m interested in software engineering,history,arts,science and medical technology.
+- 👀 I’m interested in software engineering and medical technology.
 - 💞️ I’m looking to collaborate on any tech related area.
 - 📫 How to reach me gbenmoese788@gmail.com
 
