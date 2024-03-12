@@ -1,8 +1,6 @@
-<!--<h1 align="center">Hi 👋, I'm Ese</h1>
+<h1 align="center">Hi 👋, I'm Ese</h1>
 
 - 🔭 I’m currently working on **an AirBnB Clone project**
-
-- 🌱 I’m currently learning **Javascript, python.**
 
 - 👯 I’m looking to collaborate on **more projects**
 
